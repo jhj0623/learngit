@@ -1,2 +1,2 @@
-git id a distributed version control system
-git is free software diestributed under the GPL
+git id a distributed version control system n
+git is free software 
